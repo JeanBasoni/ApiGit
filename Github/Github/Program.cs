@@ -21,7 +21,7 @@ namespace Github
             {
                 var client = new GitHubClient(new ProductHeaderValue("octokit"));
                 //Necessário informar usuário e senha do github
-                var basicAuth = new Credentials("jeanbasoni", "a1s2d3f4");
+                var basicAuth = new Credentials("seuUsuario", "suaSenha");
                 client.Credentials = basicAuth;
 
                 Console.Write("Informe um usuário: ");
