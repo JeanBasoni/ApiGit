@@ -45,7 +45,7 @@ namespace Github
                         {
                             Console.WriteLine(
                                 "------------------------------------------------------------------------------");
-                            Console.WriteLine(string.Format("Id: {0}\nRepositório: {1}\n", result.Id, result.Name));
+                            Console.WriteLine("Id: {0}\nRepositório: {1}\n", result.Id, result.Name);
                         }
                     else
                         Console.WriteLine(string.Format("Dados de usuário não encontrado."));
