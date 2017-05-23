@@ -1,0 +1,9 @@
+C:\Users\Fadami00\Documents\Projetos\Git\Github\Github\bin\Debug\Github.exe.config
+C:\Users\Fadami00\Documents\Projetos\Git\Github\Github\obj\Debug\Github.csprojResolveAssemblyReference.cache
+C:\Users\Fadami00\Documents\Projetos\Git\Github\Github\bin\Debug\Github.exe
+C:\Users\Fadami00\Documents\Projetos\Git\Github\Github\bin\Debug\Github.pdb
+C:\Users\Fadami00\Documents\Projetos\Git\Github\Github\obj\Debug\Github.exe
+C:\Users\Fadami00\Documents\Projetos\Git\Github\Github\obj\Debug\Github.pdb
+C:\Users\Fadami00\Documents\Projetos\Git\Github\Github\bin\Debug\Octokit.dll
+C:\Users\Fadami00\Documents\Projetos\Git\Github\Github\bin\Debug\Octokit.pdb
+C:\Users\Fadami00\Documents\Projetos\Git\Github\Github\bin\Debug\Octokit.xml

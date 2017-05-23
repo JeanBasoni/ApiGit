@@ -1,0 +1,8 @@
+C:\Users\Fadami00\Documents\Projetos\Git\Github\Github\bin\Release\Github.exe.config
+C:\Users\Fadami00\Documents\Projetos\Git\Github\Github\bin\Release\Github.exe
+C:\Users\Fadami00\Documents\Projetos\Git\Github\Github\bin\Release\Github.pdb
+C:\Users\Fadami00\Documents\Projetos\Git\Github\Github\bin\Release\Octokit.dll
+C:\Users\Fadami00\Documents\Projetos\Git\Github\Github\bin\Release\Octokit.pdb
+C:\Users\Fadami00\Documents\Projetos\Git\Github\Github\bin\Release\Octokit.xml
+C:\Users\Fadami00\Documents\Projetos\Git\Github\Github\obj\Release\Github.exe
+C:\Users\Fadami00\Documents\Projetos\Git\Github\Github\obj\Release\Github.pdb
